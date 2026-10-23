@@ -1,0 +1,18 @@
+{
+    "OrderID": 1,
+    "Address": "Habana 4310",
+    "Status": "Abierta",
+    "Articles": [
+        {
+            "Name": "Teclado KB110",
+            "Quantity": 10,
+            "Dangerous": false
+        },
+        {
+            "Name": "Monitor M02",
+            "Quantity": 5,
+            "Dangerous": true
+        }
+    ]
+
+}
